@@ -1,32 +1,25 @@
-## Welcome to JCL's Pages
+<a href="#" target="_blank"><img src="#" alt="#" /></a>
 
-### Markdown
+##1
+Git page
+
+##2
+
+##3
+
+-  Fully Responsive
+-  HTML5 + CSS3
+-  Built on Bootstrap 3
+-  6 Colour Schemes
+-  600+ FontAwesome icons
+-  **LESS** files included
+-  Compatible with all modern browsers
+
+##4
+
+"# seunghyunhong.github.io"
 
 
-```markdown
-JCL BOX
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soodal5629/soodal5629.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<small class="copyright">Designed with <i class="fa fa-heart"></i>by <a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
